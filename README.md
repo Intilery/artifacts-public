@@ -10,7 +10,7 @@ Include the following repository in the `pom.xml`:
 <repositories>
     <repository>
         <id>public-mvn-repo</id>
-        <url>https://rawgit.com/Intilery/artifacts-public/master</url>
+        <url>https://raw.githubusercontent.com/Intilery/artifacts-public/master</url>
         <releases>
             <enabled>true</enabled>
         </releases>
